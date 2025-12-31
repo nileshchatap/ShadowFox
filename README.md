@@ -3,7 +3,7 @@
 Welcome to my ShadowFox Internship Repository! 🚀
 This repository contains all tasks completed during my Data Science Internship, demonstrating practical skills in data visualization, sentiment analysis, and advanced cricket fielding analysis.
 
-#💡Introduction
+💡Introduction
 
 This internship at ShadowFox provided hands-on experience in Python-based data analysis. The repository demonstrates the integration of academic knowledge with real-world datasets.
 
@@ -16,8 +16,8 @@ This internship at ShadowFox provided hands-on experience in Python-based data a
 
 3.Sports Analytics: Cricket Fielding Performance ⚾
 
-#🛠 Tasks Overview
-#1️⃣ Task 1: Mastering Data Visualization with Python
+🛠 Tasks Overview
+1️⃣ Task 1: Mastering Data Visualization with Python
 
 *Objective: Visualize data to identify patterns, trends, and distributions.
 
@@ -29,7 +29,7 @@ Highlights:
 
 2.Color palettes, styles, and layout customization
 
-#2️⃣ Task 2: Sentiment Analysis of X Platform Data
+2️⃣ Task 2: Sentiment Analysis of X Platform Data
 
 *Objective: Analyze public sentiments on social media (X platform).
 
@@ -43,7 +43,7 @@ Highlights:
 
 3.Trend analysis through interactive charts
 
-#3️⃣ Task 3: Cricket Fielding Analysis (Advanced)
+3️⃣ Task 3: Cricket Fielding Analysis (Advanced)
 
 *Objective: Evaluate fielding performance for selected T20 match players.
 
@@ -59,26 +59,32 @@ Highlights:
 
 
 
-#📁Folder Structure
+📁Folder Structure
 
 ShadowFox/
 ├── README.md
+
 ├── Task-1-Documentation/
+
 ├── Task-2-Documentation/
+
 ├── Task-3-Documentation/
+
 ├── Task-1-Code/
+
 ├── Task-2-Code/
+
 └── Task-3-Code/
 
 
 
-#Acknowledgment
+💡Acknowledgment
 
 I sincerely thank ShadowFox, especially my mentor Mr. Hariharan and coordinator Mr. Aakash, for their invaluable guidance.
 Thanks to Amrita Vishwa Vidyapeetham for providing this internship opportunity, enabling hands-on learning and professional growth.
 
 
-#⭐Skills & Tools
+⭐Skills & Tools
 
 Skill/Tool                 Used In
 Python	                  All Tasks
@@ -90,7 +96,7 @@ Cricket Analytics          Task 3
 
 
 
-#Conclusion
+✅Conclusion
 
 During my ShadowFox Data Science Internship, I enhanced my skills in Python, data visualization, NLP, and analytics through three tasks:
 
